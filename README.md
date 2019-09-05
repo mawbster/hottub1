@@ -16,7 +16,7 @@
 <p>I was able to put into practice some of the basic html i had previously learnt in order to create this.</p>
 <p>Using images sent to me by the recipient of the website i had to make adjustments to the sizes and orientation in photoshop to make them fit</p>
 <p>Used some tutorials To learn about javaspript animations and how to animate elements of the page for transition effects</p>
-<p>I noticed that this site was very poorly optimised for mobile so made that a goal in my next project</p>
+<p>I noticed that v1 of this site was very poorly optimised for mobile so made that a specific goal in this project</p>
 <p>Leant about using background images across the site for effects</p>
 <p>Created the site from scratch using the a code editor</p>
 
