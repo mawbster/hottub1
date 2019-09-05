@@ -1,6 +1,6 @@
-#<h1>Hire a Hottub Version 1</h1>
+<h1>Hire a Hottub Version 1</h1>
 
-<p>Live Site</p><a href="https://hireahottub.netlify.com/">
+<p>Live Site - <a href="https://hireahottub2.netlify.com/" target="_blank">Hire A HotTub V2</a></p>
 <a href="https://hireahottub.netlify.com/" target="_blank"><img src="https://github.com/mawbster/hottub1/blob/master/img/ht11small.png"/></a>
 
 <p> first iteration of the hottub site </p>
