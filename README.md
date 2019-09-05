@@ -1,4 +1,4 @@
-#<h1>Hire a Hottub Version 2</h1>
+#<h1>Hire a Hottub Version 1</h1>
 
 <a href="https://hireahottub.netlify.com/" target="_blank"><img src="https://github.com/mawbster/hottub1/blob/master/img/ht11small.png"/></a>
 
