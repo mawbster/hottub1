@@ -2,7 +2,7 @@
 
 <a href="https://hireahottub2.netlify.com/" target="_blank"><img src="https://github.com/mawbster/hottub2/blob/master/img/HT2small.png"/></a>
 
-<p> First iteration of the hottub site </p>
+<p> first iteration of the hottub site </p>
 <ul>
 <p>Skills used</p>
   <li>Basic HTML</li>
@@ -16,7 +16,7 @@
 <p>I was able to put into practice some of the basic html i had previously learnt in order to create this.</p>
 <p>Using images sent to me by the recipient of the website i had to make adjustments to the sizes and orientation in photoshop to make them fit</p>
 <p>Used some tutorials To learn about javaspript animations and how to animate elements of the page for transition effects</p>
-<p>I noticed that v1 of this site was very poorly optimised for mobile so made that a specific goal in this project</p>
+<p>I noticed that v1 of this site was very poorly optimised for mobile so made that a specific goal in the next project</p>
 <p>Leant about using background images across the site for effects</p>
 <p>Created the site from scratch using the a code editor</p>
 
